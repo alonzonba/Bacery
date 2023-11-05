@@ -215,11 +215,11 @@ ul {
 
 .formats-item {
   flex-basis: calc((100% - 40px) / 3);
+  border: 1px solid lightgrey;
+  border-radius: 16px;
 }
 .format-card {
   padding: 24px;
-  border: 1px solid lightgrey; /*remove*/
-  border-radius: 16px;
 }
 .formats-title {
   margin-bottom: 80px;
