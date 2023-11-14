@@ -5,21 +5,24 @@
 @import "./base";
 
 @import "./utils/utils";
+@import "./utils/texts";
 
 @import "./components/buttons";
-
 @import "./components/links";
+@import "./components/input";
+@import "./components/carousel-button";
 
 @import "./layouts/section";
-@import "./components/header";
-@import "./components/hero-section";
+@import "./layouts/header";
+@import "./layouts/hero-section";
 @import "./layouts/traditions-section";
 @import "./layouts/chefs-section";
-@import "./layouts/format-section";
+@import "./layouts/chef-card";
+@import "./layouts/formats-section";
+@import "./layouts/format-card";
 @import "./layouts/advatnages-section";
 @import "./layouts/contacts-section";
 @import "./layouts/footer";
 @import "./layouts/modal";
-@import "./layouts/forms";
-
-@import "./components/carousel-button";
+@import "./layouts/form-terms";
+@import "./layouts/container";
